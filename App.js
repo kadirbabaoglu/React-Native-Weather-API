@@ -3,7 +3,7 @@ import { ImageBackground, StyleSheet, Text, TextInput, View } from 'react-native
 
 const image = { uri: "https://media-cdn.tripadvisor.com/media/photo-s/0f/e9/72/f4/buyuk-camlica-tepesi.jpg" };
 const url = 'https://api.openweathermap.org/data/2.5/'
-const key = 'e66680bcee745a2dbd15ace4cbe2cecb'
+const key = 'Your API KEY'
 
 export default function App () {
 
